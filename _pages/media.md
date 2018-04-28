@@ -1,5 +1,6 @@
 ---
 permalink: /media/
+---
 
 # Writing
 Gallery of Conversation articles
@@ -9,4 +10,3 @@ Embed youtube
 
 # Other
 List of things
----
