@@ -34,7 +34,7 @@ Some articles I have written for [The Conversation](https://theconversation.com/
 ### Videos
 Our team discusses how we detected radio emission from a binary neutron star merger GW170817
 
-{% include video id="EuFxRAYxs2Q" provider="youtube" %}
+{% include video id="EuFxRAYxs2Q" provider="youtube" width="80%" %}
 
 Cleo Loi explains how we discovered plasma tubes in the ionosphere with the Murchison Widefield Array
 
