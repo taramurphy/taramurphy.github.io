@@ -1,6 +1,7 @@
 ---
 permalink: /students/
 title: "Students"
+classes: wide
 gallery:
   - url: /assets/images/student_jono.jpg
     image_path: /assets/images/student_jono.jpg

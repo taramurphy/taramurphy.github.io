@@ -1,6 +1,7 @@
 ---
 permalink: /pubs/
 title: "Publications"
+classes: wide
 ---
 
 ### Highlights
