@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Tara Murphy"
 title_separator          : "-"
-name                     : "Tara Murphy"
+name                     : "A/Prof Tara Murphy"
 description              : "Personal Home Page"
 url                      : "https://taramurphy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,8 +102,8 @@ author:
   bio              : "Astrophysicist @Uni_Sydney Entrepreneur @groklearning"
   location         : "Sydney, Australia"
   email            : "tara.murphy@sydney.edu.au"
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  uri              : "test this"
+  home             : "https://taramurphy.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -273,3 +273,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+sidebar:
+  - title: "Contact"
+    text: "Room 358, School of Physics, University of Sydney, NSW, 2006"

@@ -17,8 +17,7 @@ gallery:
     title: "Keith Bannister graduation"
 ---
 
-### Research students
-I'm honoured to have worked with so many talented students over the years.
+I'm honoured to have worked with many talented students over the years. We always have undergraduate research projects available in our group, so contact me if you're interested.
 
 * Current 	     Andrew Zic, PhD
 * Current 	     Dougal Dobie, PhD
