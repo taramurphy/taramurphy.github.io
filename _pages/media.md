@@ -7,8 +7,8 @@ feature_row1:
     url: "https://theconversation.com/after-the-alert-radio-eyes-hunt-the-source-of-the-gravitational-waves-85106"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    title: "After the alert"
-    excerpt: "Radio ‘eyes’ hunt the source of the gravitational waves"
+#    title: "After the alert"
+    excerpt: "After the alert: Radio ‘eyes’ hunt the source of the gravitational waves"
   - image_path: /assets/images/conv_mwa.png
     alt: "The Murchison Widefield Array"
     title: "Tuning in to cosmic radio from the dawn of time"
