@@ -1,12 +1,6 @@
 ---
 permalink: /media/
 title: "Media"
----
-
-### Writing
-
-Some articles I have written for The Conversation.
-
 feature_row:
   - image_path: assets/images/conv_atca.png
     alt: "The Australia Telescope Compact Array"
@@ -23,9 +17,13 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+---
 
+### Writing
 
-Gallery of Conversation articles
+Some articles I have written for [The Conversation](https://theconversation.com/au).
+
+{% include feature_row id="intro" type="center" %}
 
 ### Videos
 Embed youtube 
