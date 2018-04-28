@@ -1,6 +1,19 @@
 ---
 permalink: /students/
 title: "Students"
+gallery:
+  - url: /assets/images/student_jono.jpg
+    image_path: /assets/images/student_jono.jpg
+    alt: "Jonathan Kummerfeld graduation"
+    title: "Jonathan Kummerfeld graduation"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 ---
 
 ### Research students
@@ -15,6 +28,9 @@ I'm honoured to have worked with so many talented students over the years.
 * 2016			  	 Charlotte Ward, Honours
 * 2016				 	   Jake Hughes, Graduate Diploma
 * 2014					   	Shyeh Tjing (Cleo) Loi, Honours
+
+{% include gallery caption="Student graduations" %}
+
 * 2011 – 2016					Sarah Reeves, PhD (associate supervisor)
 * 2011   Peter Ashwell, Honours
 * 2011   	     Andrew Naoum, Honours
