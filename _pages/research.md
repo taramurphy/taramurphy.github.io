@@ -3,10 +3,12 @@ permalink: /research/
 title: "Research"
 ---
 
-### Highlights
-Gallery of ~6 articles
+### Radio monitoring of gravitational wave events
+tbd
 
-### Publications
-Links to full publication lists, scopus etc.
+### Low frequency radio transients
+tbd
+
+### Explosive transients
 
 
