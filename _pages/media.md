@@ -28,7 +28,10 @@ Some articles I have written for [The Conversation](https://theconversation.com/
 {% include feature_row id="feature_row1" %}
 
 ### Videos
-Embed youtube 
+Cleo Loi explains how we discovered plasma tubes in the ionosphere with the Murchison Widefield Array
+
+{% include video id="ymZEOihlIdU" provider="youtube" %}
+
 
 ### Other
 List of things
