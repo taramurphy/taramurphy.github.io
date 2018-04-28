@@ -1,11 +1,12 @@
 ---
 permalink: /media/
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-#      layout: single
-      author_profile: true
+
+# Writing
+Gallery of Conversation articles
+
+# Videos
+Embed youtube 
+
+# Other
+List of things
 ---
