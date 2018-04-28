@@ -20,10 +20,10 @@ gallery:
 ### Research students
 I'm honoured to have worked with so many talented students over the years.
 
-* 2017 – 	     Andrew Zic, PhD
-* 2017 – 	     Dougal Dobie, PhD
-* 2017 – 	     Hao (Harry) Qiu, PhD
-* 2017 	     James Leung, Honours
+* Current 	     Andrew Zic, PhD
+* Current 	     Dougal Dobie, PhD
+* Current 	     Hao (Harry) Qiu, PhD
+* Current 	     James Leung, Honours
 * 2016 	     	   Andrew Zic, Honours
 * 2016		   	  Dougal Dobie, Honours
 * 2016			  	 Charlotte Ward, Honours
@@ -46,7 +46,5 @@ I'm honoured to have worked with so many talented students over the years.
 * 2009	     	   Sam Tardif, Honours (co-supervisor)
 * 2008		       Joel Nothman, Honours (co-supervisor)
 
-
-Add a few photos (e.g. Jono, Kitty, Keith)
 
 
