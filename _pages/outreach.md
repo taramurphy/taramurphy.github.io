@@ -1,6 +1,9 @@
 ---
 permalink: /outreach/
 title: "Outreach"
+sidebar:
+  - title: "Contact"
+    text: "Room 358, School of Physics, University of Sydney, NSW, 2006"
 ---
 
 
