@@ -1,5 +1,6 @@
 ---
 permalink: /media/
+title: "Media"
 ---
 
 ### Writing
