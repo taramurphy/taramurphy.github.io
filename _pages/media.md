@@ -6,6 +6,6 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+#      layout: single
       author_profile: true
 ---

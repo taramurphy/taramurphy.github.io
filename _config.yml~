@@ -98,8 +98,8 @@ analytics:
 # Site Author
 author:
   name             : "Tara Murphy"
-  avatar           : "/assets/images/comic-tara.jpg"
-  bio              : "Astrophysicist @Uni_Sydney; entrepreneur @groklearning"
+  avatar           : "/assets/images/comic-tara.jpeg"
+  bio              : "Astrophysicist @Uni_Sydney Entrepreneur @groklearning"
   location         : "Sydney, Australia"
   email            : "tara.murphy@sydney.edu.au"
   uri              :
