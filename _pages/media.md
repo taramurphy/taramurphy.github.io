@@ -1,7 +1,7 @@
 ---
 permalink: /media/
 title: "Media"
-feature_row:
+feature_row1:
   - image_path: assets/images/conv_atca.png
     alt: "The Australia Telescope Compact Array"
     url: "https://theconversation.com/after-the-alert-radio-eyes-hunt-the-source-of-the-gravitational-waves-85106"
@@ -23,7 +23,7 @@ feature_row:
 
 Some articles I have written for [The Conversation](https://theconversation.com/au).
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="feature_row1" type="center" %}
 
 ### Videos
 Embed youtube 
