@@ -5,6 +5,7 @@ feature_row1:
   - image_path: assets/images/conv_atca.png
     alt: "The Australia Telescope Compact Array"
     url: "https://theconversation.com/after-the-alert-radio-eyes-hunt-the-source-of-the-gravitational-waves-85106"
+    btn_label: "Read More"
     title: "After the alert"
     excerpt: "Radio ‘eyes’ hunt the source of the gravitational waves"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
