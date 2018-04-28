@@ -12,7 +12,7 @@ Science is undergoing a data explosion, and astronomy is leading the way. Modern
 
 {% include video id="IzVETSVp4Nw" provider="youtube" %}
 
-[Start the (free) course now](https://www.coursera.org/learn/data-driven-astronomy)
+[Start the (free) course now](https://www.coursera.org/learn/data-driven-astronomy) on Coursera. Note that this course does assume familiarity with basic programming in Python.
 
 
 
