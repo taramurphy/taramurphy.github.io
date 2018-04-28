@@ -5,9 +5,12 @@ title: "Media"
 
 ### Writing
 
+Some articles I have written for The Conversation.
+
 feature_row:
-  - image_path: assets/images/conv_atca.jpg
+  - image_path: assets/images/conv_atca.png
     alt: "The Australia Telescope Compact Array"
+    url: "https://theconversation.com/after-the-alert-radio-eyes-hunt-the-source-of-the-gravitational-waves-85106"
     title: "After the alert"
     excerpt: "Radio ‘eyes’ hunt the source of the gravitational waves"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
