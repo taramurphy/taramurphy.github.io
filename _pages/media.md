@@ -1,6 +1,7 @@
 ---
 permalink: /media/
 title: "Media"
+layout: splash
 feature_row1:
   - image_path: assets/images/conv_atca.png
     alt: "The Australia Telescope Compact Array"
