@@ -97,12 +97,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tara Murphy"
+  name             : "A/Prof Tara Murphy"
   avatar           : "/assets/images/comic-tara-sq.png"
   bio              : "Astrophysicist @Uni_Sydney Entrepreneur @groklearning"
   location         : "Sydney, Australia"
   email            : "tara.murphy@sydney.edu.au"
-  uri              : "test this"
+  uri              : "http://sydney.edu.au/science/people/tara.murphy.php"
   home             : "https://taramurphy.github.io/"
   bitbucket        :
   codepen          :
@@ -273,7 +273,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-sidebar:
-  - title: "Contact"
-    text: "Room 358, School of Physics, University of Sydney, NSW, 2006"
+      sidebar:
+  	title: "Contact"
+    	text: "Room 358, School of Physics, University of Sydney, NSW, 2006"
