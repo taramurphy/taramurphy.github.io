@@ -7,14 +7,14 @@ gallery:
     image_path: /assets/images/student_jono.jpg
     alt: "Jonathan Kummerfeld graduation"
     title: "Jonathan Kummerfeld graduation"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+  - url: /assets/images/student_kitty.jpg
+    image_path: /assets/images/student_kitty.jpg
+    alt: "Kitty Lo graduation"
+    title: "Kitty Lo graduation"
+  - url: /assets/images/student_keith.jpg
+    image_path: /assets/images/student_keith.jpg
+    alt: "Keith Bannister graduation"
+    title: "Keith Bannister graduation"
 ---
 
 ### Research students
