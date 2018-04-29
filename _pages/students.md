@@ -22,12 +22,22 @@ gallery:
 
 I'm honoured to have worked with many talented students over the years. We always have undergraduate research projects available in our group, so contact me if you're interested.
 
-<div class="row">
-  <div class="column"> hello </div>
-  <div class="column"> world </div>
-</div>
-
-* Current 	     Andrew Zic, PhD
+<table>
+  <tr>
+    <td>* Current 	     Andrew Zic, PhD</td>
+    <td rowspan="10">{% include figure image_path="/assets/images/student_jono.png" alt="Jonathan Kummerfeld graduation" caption="" %}</td>
+  </tr>
+  <tr>
+    <td>a</td><td></td>
+  </tr>
+  <tr>
+    <td>a</td><td></td>
+  </tr>
+  <tr>
+    <td>a</td><td></td>
+  </tr>
+</table>
+    
 * Current 	     Dougal Dobie, PhD
 * Current 	     Hao (Harry) Qiu, PhD
 * Current 	     James Leung, Honours
@@ -35,19 +45,17 @@ I'm honoured to have worked with many talented students over the years. We alway
 * 2016		   	  Dougal Dobie, Honours
 * 2016			  	 Charlotte Ward, Honours
 * 2016				 	   Jake Hughes, Graduate Diploma
+* 2016					Sarah Reeves, PhD (associate supervisor)
+* 2015	    Vanessa Moss, PhD
 * 2014					   	Shyeh Tjing (Cleo) Loi, Honours
-
-{% include gallery caption="Student graduations" %}
-
-* 2011 – 2016					Sarah Reeves, PhD (associate supervisor)
+* 2013    William Robbins, PhD (associate supervisor)
+* 2013    Kitty Lo, PhD 
+* 2012    Keith Bannister, PhD 
+<!--- {% include gallery caption="Student graduations" %} --->
 * 2011   Peter Ashwell, Honours
 * 2011   	     Andrew Naoum, Honours
 * 2011	     	    Paul Zervos, Honours
-* 2011 – 2015	    Vanessa Moss, PhD
 * 2010   Vanessa Moss, Honours
-* 2009 – 2013    William Robbins, PhD (associate supervisor)
-* 2009 – 2013    Kitty Lo, PhD 
-* 2009 – 2012    Keith Bannister, PhD 
 * 2009   Sarah Reeves, Honours
 * 2009   	     Chris Leong, Honours
 * 2009	     	   Sam Tardif, Honours (co-supervisor)
