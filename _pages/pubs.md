@@ -13,22 +13,21 @@ feature_row1:
     btn_class: "btn--primary"
     title: ""
     excerpt: "A turnover in the radio lightcurve of GW170817"
-  - image_path: /assets/images/conv_mwa.png
-    alt: "The Murchison Widefield Array"
+  - image_path: /assets/images/p_murphy1.png
+    alt: "Image of radio transient source"
     title: ""
-    excerpt: "Tuning in to cosmic radio from the dawn of time."
-    url: "https://theconversation.com/tuning-in-to-cosmic-radio-from-the-dawn-of-time-51584"
+    excerpt: "A search for long-timescale, low-frequency radio transients"
+    url: "https://arxiv.org/abs/1611.08354"
     btn_label: "Read paper"
     btn_class: "btn--primary"
-  - image_path: /assets/images/conv_plasma.png
+  - image_path: /assets/images/p_lynch1.png
     title: ""
-    url: "https://theconversation.com/how-an-undergraduate-discovered-tubes-of-plasma-in-the-sky-42810"
-    excerpt: "How an undergraduate discovered tubes of plasma in the sky."
+    url: "https://arxiv.org/abs/1702.03030"
+    excerpt: "154 MHz Detection of Faint, Polarized Flares from UV Ceti"
     btn_label: "Read paper"
     btn_class: "btn--primary"
 ---
 
-### Publications
 My [full list of astronomy publications](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=taramurphy_ref&libid=45abd57644) is on NASA ADS.
 
 Alternatively you can [view them on Scopus](https://www.scopus.com/authid/detail.uri?authorId=14527576400) (not always complete) or [ORCID](https://orcid.org/0000-0002-2686-438X).
