@@ -30,7 +30,7 @@ feature_row1:
 
 ## Writing
 
-Some articles I have written for [The Conversation](https://theconversation.com/au).
+Some articles I have written for [The Conversation](https://theconversation.com/profiles/tara-murphy-1082/articles).
 
 {% include feature_row id="feature_row1" %}
 
@@ -45,8 +45,9 @@ Cleo Loi explains how we discovered plasma tubes in the ionosphere with the Murc
 
 
 ## Podcasts
-* [https://shirtloadsofscience.libsyn.com/secret-astronomy-tara-murphy-and-the-explosive-discoveries-of-2017-67](Dr Karl's "Shirtloads of Science")
-* [https://www.podcastone.com.au/episode/what-happens-when-neutron-stars-collide](Adam Spencer's "The Big Questions")
+* [Dr Karl's "Shirtloads of Science"](https://shirtloadsofscience.libsyn.com/secret-astronomy-tara-murphy-and-the-explosive-discoveries-of-2017-67)
+* [Adam Spencer's "The Big Questions"](https://www.podcastone.com.au/episode/what-happens-when-neutron-stars-collide)
+
 
 
 ## Articles about my work
