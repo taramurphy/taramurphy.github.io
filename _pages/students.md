@@ -23,28 +23,32 @@ gallery:
 I'm honoured to have worked with many talented students over the years. We always have undergraduate research projects available in our group, so contact me if you're interested.
 
 <div class="row">
-  <div class="column">
+  <div class="column left">
     <ul>
       <li>Current 	     Andrew Zic, PhD</li>
       <li>Current 	     Dougal Dobie, PhD</li>
       <li>Current 	     Hao (Harry) Qiu, PhD</li>
       <li>Current 	     James Leung, Honours</li>
       <li>2016 	     	   Andrew Zic, Honours</li>
-      <li>2016		   	  Dougal Dobie, Honours</li>
-      <li>2016			  	 Charlotte Ward, Honours</li>
-      <li>2016				 	   Jake Hughes, Graduate Diploma</li>
-      <li>2016					Sarah Reeves, PhD (associate supervisor)</li>
+      <li>2016	 	  Dougal Dobie, Honours</li>
+      <li>2016	  	 Charlotte Ward, Honours</li>
+      <li>2016	 	   Jake Hughes, Graduate Diploma</li>
+      <li>2016		Sarah Reeves, PhD (associate supervisor)</li>
+      <li>2015	Vanessa Moss, PhD</li>
+      <li>2014	Shyeh Tjing (Cleo) Loi, Honours</li>
+      <li>2013    William Robbins, PhD (associate supervisor)</li>
+
   </div>
-  <div class="column">
+  <div class="column right">
   {% include figure image_path="/assets/images/student_jono.jpg" alt="Jonathan Kummerfeld graduation" caption="" %}
+
+  {% include figure image_path="/assets/images/student_keith.jpg" alt="Keith Bannister graduation" caption="" %}
+
   </div>
 </div>
    
 
 
-* 2015	    Vanessa Moss, PhD
-* 2014					   	Shyeh Tjing (Cleo) Loi, Honours
-* 2013    William Robbins, PhD (associate supervisor)
 * 2013    Kitty Lo, PhD 
 * 2012    Keith Bannister, PhD 
 * 2011   Peter Ashwell, Honours
