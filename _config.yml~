@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Tara Murphy"
 title_separator          : "-"
-name                     : "Tara Murphy"
+name                     : "A/Prof Tara Murphy"
 description              : "Personal Home Page"
 url                      : "https://taramurphy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -97,13 +97,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tara Murphy"
+  name             : "A/Prof Tara Murphy"
   avatar           : "/assets/images/comic-tara-sq.png"
-  bio              : "Astrophysicist @Uni_Sydney Entrepreneur @groklearning"
+  bio              : "Astrophysicist @ Uni Sydney Entrepreneur @ groklearning ARC Future Fellow"
   location         : "Sydney, Australia"
   email            : "tara.murphy@sydney.edu.au"
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  uri              : "http://sydney.edu.au/science/people/tara.murphy.php"
+  home             : "https://taramurphy.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -196,7 +196,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Sydney
 
 
 # Plugins (previously gems:)
