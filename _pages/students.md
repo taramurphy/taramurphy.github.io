@@ -25,15 +25,16 @@ I'm honoured to have worked with many talented students over the years. We alway
 <div class="row">
   <div class="column">
     * Current 	     Andrew Zic, PhD
+    * Current 	     Dougal Dobie, PhD
+    * Current 	     Hao (Harry) Qiu, PhD
+    * Current 	     James Leung, Honours
   </div>
   <div class="column">
   {% include figure image_path="/assets/images/student_jono.jpg" alt="Jonathan Kummerfeld graduation" caption="" %}
   </div>
 </div>
    
-* Current 	     Dougal Dobie, PhD
-* Current 	     Hao (Harry) Qiu, PhD
-* Current 	     James Leung, Honours
+
 * 2016 	     	   Andrew Zic, Honours
 * 2016		   	  Dougal Dobie, Honours
 * 2016			  	 Charlotte Ward, Honours
@@ -44,7 +45,6 @@ I'm honoured to have worked with many talented students over the years. We alway
 * 2013    William Robbins, PhD (associate supervisor)
 * 2013    Kitty Lo, PhD 
 * 2012    Keith Bannister, PhD 
-<!--- {% include gallery caption="Student graduations" %} --->
 * 2011   Peter Ashwell, Honours
 * 2011   	     Andrew Naoum, Honours
 * 2011	     	    Paul Zervos, Honours
