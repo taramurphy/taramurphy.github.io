@@ -8,7 +8,7 @@ sidebar:
 
 Some of my current courses are described below.
 
-## Data-driven Astronomy
+### Data-driven Astronomy
 
 Science is undergoing a data explosion, and astronomy is leading the way. 
 Modern telescopes produce terabytes of data per observation, and the 
@@ -25,7 +25,7 @@ In this course you will investigate the challenges of working with large dataset
 
 
 
-## OLET1622 Numbers and Numerics
+### OLET1622 Numbers and Numerics
 
 Computational science underpins modern science, engineering and finance. 
 It provides numerical solutions to problems that can't be solved 
