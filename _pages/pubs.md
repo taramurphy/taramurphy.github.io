@@ -49,9 +49,8 @@ feature_row2:
     btn_class: "btn--primary"
 ---
 
-My [full list of astronomy publications](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=taramurphy_ref&libid=45abd57644) is on NASA ADS.
-
-Alternatively you can [view them on Scopus](https://www.scopus.com/authid/detail.uri?authorId=14527576400) (not always complete) or [ORCID](https://orcid.org/0000-0002-2686-438X).
+My full list of [astronomy publications](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=taramurphy_ref&libid=45abd57644) is on NASA ADS.
+Alternatively you can [view them on Scopus](https://www.scopus.com/authid/detail.uri?authorId=14527576400) (not always complete) or via [ORCID](https://orcid.org/0000-0002-2686-438X).
 
 
 ### Recent Highlights
