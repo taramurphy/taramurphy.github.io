@@ -13,6 +13,20 @@ feature_row1:
     btn_class: "btn--primary"
     title: ""
     excerpt: "A turnover in the radio lightcurve of GW170817"
+  - image_path: /assets/images/p_bhandari1.png
+    alt: "Gigahertz transients surveys"
+    title: ""
+    excerpt: "A pilot survey for transients and variables with the Australian Square Kilometre Array Pathfinder"
+    url: ""
+    btn_label: "Read paper"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/p_lenc1.png
+    title: ""
+    url: ""
+    excerpt: "An all-sky survey of circular polarisation at 200 MHz"
+    btn_label: "Read paper"
+    btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/images/p_murphy1.png
     alt: "Image of radio transient source"
     title: ""
@@ -20,13 +34,6 @@ feature_row1:
     url: "https://arxiv.org/abs/1611.08354"
     btn_label: "Read paper"
     btn_class: "btn--primary"
-  - image_path: /assets/images/p_lynch1.png
-    title: ""
-    url: "https://arxiv.org/abs/1702.03030"
-    excerpt: "154 MHz Detection of Faint, Polarized Flares from UV Ceti"
-    btn_label: "Read paper"
-    btn_class: "btn--primary"
-feature_row2:
   - image_path: assets/images/p_murphy2.png
     alt: "Distribution of pulsars detected in our survey"
     url: "https://arxiv.org/abs/1704.00027"
@@ -34,13 +41,6 @@ feature_row2:
     btn_class: "btn--primary"
     title: ""
     excerpt: "Low-Frequency Spectral Energy Distributions of Radio Pulsars Detected with the Murchison Widefield Array"
-  - image_path: /assets/images/p_murphy1.png
-    alt: "Image of radio transient source"
-    title: ""
-    excerpt: "A search for long-timescale, low-frequency radio transients"
-    url: "https://arxiv.org/abs/1611.08354"
-    btn_label: "Read paper"
-    btn_class: "btn--primary"
   - image_path: /assets/images/p_lynch1.png
     title: ""
     url: "https://arxiv.org/abs/1702.03030"
