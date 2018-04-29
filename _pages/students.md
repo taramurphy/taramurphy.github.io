@@ -22,22 +22,15 @@ gallery:
 
 I'm honoured to have worked with many talented students over the years. We always have undergraduate research projects available in our group, so contact me if you're interested.
 
-<table border=0>
-  <tr>
-    <td>Current 	     Andrew Zic, PhD</td>
-    <td rowspan="10">{% include figure image_path="/assets/images/student_jono.jpg" alt="Jonathan Kummerfeld graduation" caption="" %}</td>
-  </tr>
-  <tr>
-    <td>a</td><td></td>
-  </tr>
-  <tr>
-    <td>a</td><td></td>
-  </tr>
-  <tr>
-    <td>a</td><td></td>
-  </tr>
-</table>
-    
+<div class="row">
+  <div class="column">
+    * Current 	     Andrew Zic, PhD
+  </div>
+  <div class="column">
+  {% include figure image_path="/assets/images/student_jono.jpg" alt="Jonathan Kummerfeld graduation" caption="" %}
+  </div>
+</div>
+   
 * Current 	     Dougal Dobie, PhD
 * Current 	     Hao (Harry) Qiu, PhD
 * Current 	     James Leung, Honours
