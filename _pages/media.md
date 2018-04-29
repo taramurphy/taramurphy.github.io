@@ -52,9 +52,16 @@ Cleo Loi explains how we discovered plasma tubes in the ionosphere with the Murc
 
 ## Articles about my work
 
-* (https://www.smh.com.au/technology/revelation-of-cosmic-secrets-triggers-a-frenzy-of-global-scientific-activity-20171016-gz1hmw.html)
-* (https://www.theaustralian.com.au/news/health-science/neutron-star-collision-a-turning-point-in-scientific-history/news-story/45d782fc44bcc447dd7abbd831bd709d)
-* https://www.theaustralian.com.au/higher-education/gravitational-wave-of-excitement-carries-murphy-for-16000km/news-story/d0706ee404a2f66b994933b428b7d9a4
-* https://www.sbs.com.au/news/gravitational-waves-australian-scientists-first-to-confirm-radio-signals-from-two-colliding-stars
-* https://www.smh.com.au/technology/sydney-university-physics-undergraduate-maps-huge-plasma-tubes-in-the-sky-20150529-ghcc9g.html
-* https://www.australiaunlimited.com/science/to-infinity-and-beyond
+* [https://www.smh.com.au/technology/revelation-of-cosmic-secrets-triggers-a-\
+frenzy-of-global-scientific-activity-20171016-gz1hmw.html](https://www.smh.com.au/technology/revelation-of-cosmic-secrets-triggers-a-frenzy-of-global-scientific-activity-20171016-gz1hmw.html)
+* [https://www.theaustralian.com.au/news/health-science/neutron-star-collisio\
+n-a-turning-point-in-scientific-history/news-story/45d782fc44bcc447dd7abbd831\
+bd709d](https://www.theaustralian.com.au/news/health-science/neutron-star-collision-a-turning-point-in-scientific-history/news-story/45d782fc44bcc447dd7abbd831bd709d)
+* [https://www.theaustralian.com.au/higher-education/gravitational-wave-of-exc\
+itement-carries-murphy-for-16000km/news-story/d0706ee404a2f66b994933b428b7d9a\
+4](https://www.theaustralian.com.au/higher-education/gravitational-wave-of-excitement-carries-murphy-for-16000km/news-story/d0706ee404a2f66b994933b428b7d9a4)
+* [https://www.sbs.com.au/news/gravitational-waves-australian-scientists-first\
+-to-confirm-radio-signals-from-two-colliding-stars](https://www.sbs.com.au/news/gravitational-waves-australian-scientists-first-to-confirm-radio-signals-from-two-colliding-stars)
+* [https://www.smh.com.au/technology/sydney-university-physics-undergraduate-m\
+aps-huge-plasma-tubes-in-the-sky-20150529-ghcc9g.html](https://www.smh.com.au/technology/sydney-university-physics-undergraduate-maps-huge-plasma-tubes-in-the-sky-20150529-ghcc9g.html)
+* [https://www.australiaunlimited.com/science/to-infinity-and-beyond](https://www.australiaunlimited.com/science/to-infinity-and-beyond)
