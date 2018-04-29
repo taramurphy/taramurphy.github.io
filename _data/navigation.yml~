@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /pubs/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Students"
+    url: /students/
+  - title: "Media"
+    url: /media/
+  - title: "Outreach"
+    url: /outreach/
+  - title: "Grok"
+    url: https://groklearning.com
