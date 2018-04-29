@@ -21,7 +21,6 @@ gallery:
 ---
 
 I'm honoured to have worked with many talented students over the years. We always have undergraduate research projects available in our group, so contact me if you're interested.
-
 <div class="row">
   <div class="column left">
     <ul>
