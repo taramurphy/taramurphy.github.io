@@ -35,7 +35,9 @@ Alternatively you can [view them on Scopus](https://www.scopus.com/authid/detail
 
 
 ### Recent Highlights
-Gallery of ~6 articles
+Some recent publications from my group
+
+{% include feature_row id="feature_row1" %}
 
 
 
