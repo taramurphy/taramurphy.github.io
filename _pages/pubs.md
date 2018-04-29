@@ -12,7 +12,7 @@ feature_row1:
     btn_label: "Read paper"
     btn_class: "btn--primary"
     title: ""
-    excerpt: "After the alert: Radio ‘eyes’ hunt the source of the gravitational waves"
+    excerpt: "A turnover in the radio lightcurve of GW170817"
   - image_path: /assets/images/conv_mwa.png
     alt: "The Murchison Widefield Array"
     title: ""
