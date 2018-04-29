@@ -39,6 +39,13 @@ I'm honoured to have worked with many talented students over the years. We alway
       <li>2013    Kitty Lo, PhD </li>
       <li>2012    Keith Bannister, PhD </li>
       <li>2011   Peter Ashwell, Honours</li>
+      <li>2011   Andrew Naoum, Honours</li>
+      <li>2011	 Paul Zervos, Honours</li>
+      <li>2010   Vanessa Moss, Honours</li>
+      <li>2009   Sarah Reeves, Honours</li>
+      <li>2009   Chris Leong, Honours</li>
+      <li>2009	 Sam Tardif, Honours (co-supervisor)</li>
+      <li>2008   Joel Nothman, Honours (co-supervisor)</li>
     </ul>
   </div>
   <div class="column right">
@@ -52,13 +59,7 @@ I'm honoured to have worked with many talented students over the years. We alway
 
 
 
-* 2011   	     Andrew Naoum, Honours
-* 2011	     	    Paul Zervos, Honours
-* 2010   Vanessa Moss, Honours
-* 2009   Sarah Reeves, Honours
-* 2009   	     Chris Leong, Honours
-* 2009	     	   Sam Tardif, Honours (co-supervisor)
-* 2008		       Joel Nothman, Honours (co-supervisor)
+
 
 
 
