@@ -37,7 +37,10 @@ I'm honoured to have worked with many talented students over the years. We alway
       <li>2015	Vanessa Moss, PhD</li>
       <li>2014	Shyeh Tjing (Cleo) Loi, Honours</li>
       <li>2013    William Robbins, PhD (associate supervisor)</li>
-
+      <li>2013    Kitty Lo, PhD </li>
+      <li>2012    Keith Bannister, PhD </li>
+      <li>2011   Peter Ashwell, Honours</li>
+    </ul>
   </div>
   <div class="column right">
   {% include figure image_path="/assets/images/student_jono.jpg" alt="Jonathan Kummerfeld graduation" caption="" %}
@@ -49,9 +52,7 @@ I'm honoured to have worked with many talented students over the years. We alway
    
 
 
-* 2013    Kitty Lo, PhD 
-* 2012    Keith Bannister, PhD 
-* 2011   Peter Ashwell, Honours
+
 * 2011   	     Andrew Naoum, Honours
 * 2011	     	    Paul Zervos, Honours
 * 2010   Vanessa Moss, Honours
