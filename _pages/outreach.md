@@ -8,6 +8,8 @@ sidebar:
 
 
 ### Public talks
+Some of my recent public talks have been recorded so you can watch them online.
+
 The 2017 AAO Allison Levick Memorial Lecture
 
 {% include video id="QZxt-lxg3S8" provider="youtube" %}
@@ -36,3 +38,7 @@ the [first ICT and coding courses available in Khmer](https://groklearning.com/i
 based on the Australian curriculum. Read more about [preparing young Khmer for life in the digital age](https://blog.groklearning.com/preparing-young-khmer-for-life-in-the-digital-age-6b336d94df4a).
 
 
+### Coding in school
+Programming and computational thinking are critical skills for today's students. Some of the projects I'm involved in to help improve these skills for both students and teachers are:
+* The [Australian Computing Academy](https://aca.edu.au/)
+* The [National Computer Science School Challenge](http://sydney.edu.au/wpo/high-schools/stage5/national-computer-science-school-challenge.shtml/)
