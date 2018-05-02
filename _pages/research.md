@@ -28,6 +28,24 @@ Some of our recent papers are:
 ## Low frequency radio transients
 tbd
 
-## Explosive transients
+{% include video id="x_Akn8fUBeQ" provider="youtube" %}
 
+## ASKAP radio transients
+Transients are astronomical objects that appear and disappear or change 
+rapidly; they are our window to some of the most extreme processes in the 
+Universe. Transient events can occur when black holes form, causing 
+supernovae and gamma-ray bursts; when stars collide with black holes; or 
+when hot, magnetised planets interact with their host stars. There are also 
+mysterious transients of unknown origin, like fast radio bursts. 
 
+The Variables and Slow Transients project on the Australian SKA Pathfinder (ASKAP) telescope will investigate all of these phenomena through a suite of widefield surveys.
+
+Some of our recent papers on gigahertz radio variability are:
+
+* [Bhandari et al.](http://adsabs.harvard.edu/abs/2018arXiv180411048B) A pilot survey for transients and variables with the Australian Square Kilometre Array Pathfinder
+* [Hancock et al.](http://adsabs.harvard.edu/abs/2016MNRAS.461.3314H) Radio variability in the Phoenix Deep Survey at 1.4 GHz
+* [Hobbs et al.](http://adsabs.harvard.edu/abs/2016MNRAS.456.3948H)   
+A pilot ASKAP survey of radio transient events in the region around the intermittent pulsar PSR J1107-5907
+* [Murphy et al.](http://adsabs.harvard.edu/abs/2013PASA...30....6M) VAST: An ASKAP Survey for Variables and Slow Transients
+
+{% include video id="FDoDk4D2RAw" provider="youtube" %}
