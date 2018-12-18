@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Tara Murphy"
 title_separator          : "-"
-name                     : "A/Prof Tara Murphy"
+name                     : "Prof Tara Murphy"
 description              : "Tara Murphy's Home Page"
 url                      : "https://taramurphy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -97,7 +97,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "A/Prof Tara Murphy"
+  name             : "Prof Tara Murphy"
   avatar           : "/assets/images/comic-tara-sq.png"
   bio              : "Astrophysicist @ Uni Sydney Entrepreneur @ groklearning    ARC Future Fellow"
   location         : "Sydney, Australia"

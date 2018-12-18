@@ -14,7 +14,8 @@ I'm honoured to have worked with many talented students over the years. We alway
       <li>Current: 	     Andrew Zic, PhD</li>
       <li>Current: 	     Dougal Dobie, PhD</li>
       <li>Current: 	     Hao (Harry) Qiu, PhD</li>
-      <li>Current: 	     James Leung, Honours</li>
+      <li>Current: 	     Joshua Pritchard, Honours</li>
+      <li>2018 	     James Leung, Honours</li>
       <li>2016 	     	   Andrew Zic, Honours</li>
       <li>2016	 	  Dougal Dobie, Honours</li>
       <li>2016	  	 Charlotte Ward, Honours</li>
