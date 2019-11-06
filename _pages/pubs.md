@@ -7,6 +7,12 @@ sidebar:
     text: "Room 358, School of Physics, University of Sydney, NSW, 2006"
 
 feature_row1:
+  - image_path: /assets/images/p_kaplan.png
+    title: ""
+    url: "https://arxiv.org/abs/1908.03163"
+    excerpt: "Serendipitous Discovery of PSR J1431-6328 as a Highly Polarized Point Source with the Australian SKA Pathfinder"
+    btn_label: "Read paper"
+    btn_class: "btn--primary"
   - image_path: assets/images/p_askap.png
     alt: "ASKAP observation of S190817bv"
     url: "https://arxiv.org/abs/1910.13647"
@@ -19,12 +25,6 @@ feature_row1:
     title: ""
     excerpt: "ASKAP detection of periodic and elliptically polarized radio pulses from UV Ceti"
     url: ""
-    btn_label: "Read paper"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/p_kaplan.png
-    title: ""
-    url: "https://arxiv.org/abs/1908.03163"
-    excerpt: "Serendipitous Discovery of PSR J1431-6328 as a Highly Polarized Point Source with the Australian SKA Pathfinder"
     btn_label: "Read paper"
     btn_class: "btn--primary"
 
