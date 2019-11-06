@@ -42,7 +42,7 @@ feature_row2:
     excerpt: "How an undergraduate discovered tubes of plasma in the sky."
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/conv_atca.png
+  - image_path: assets/images/conv_green.png
     alt: "Australia Telescope Compact Array"
     url: "https://theconversation.com/why-data-driven-science-is-more-than-just-a-buzzword-76949"
     btn_label: "Read More"
