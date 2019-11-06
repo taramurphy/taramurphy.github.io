@@ -14,6 +14,10 @@ The 2017 AAO Allison Levick Memorial Lecture
 
 {% include video id="QZxt-lxg3S8" provider="youtube" %}
 
+What is it like being a scientist at the University of Sydney
+
+{% include video id="BTjrJ3aAcrk" provider="youtube" %}
+
 Galaxy Convention talk on STEM and Entrepreneurship
 
 {% include video id="qu2hFnX-KnE" provider="youtube" %}
