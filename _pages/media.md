@@ -13,7 +13,7 @@ feature_row1:
     btn_class: "btn--primary"
     title: ""
     excerpt: "We’ve detected new gravitational waves, we just don’t know where they come from (yet)"
-  - image_path: assets/images/conv_nsm.png
+  - image_path: assets/images/conv_nsm.jpg
     alt: "Neutron star merger"
     title: ""
     excerpt: "Signals from a spectacular neutron star merger that made gravitational waves are slowly fading away"
