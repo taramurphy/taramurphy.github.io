@@ -6,6 +6,20 @@ sidebar:
   - title: "Contact"
     text: "Room 358, School of Physics, University of Sydney, NSW, 2006"
 feature_row1:
+  - image_path: assets/images/conv_bns.png
+    alt: "Simulation of BNS merger"
+    url: "https://theconversation.com/weve-detected-new-gravitational-waves-we-just-dont-know-where-they-come-from-yet-116267"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    title: ""
+    excerpt: "We’ve detected new gravitational waves, we just don’t know where they come from (yet)"
+  - image_path: /assets/images/conv_mwa.png
+    alt: "The Murchison Widefield Array"
+    title: ""
+    excerpt: "Signals from a spectacular neutron star merger that made gravitational waves are slowly fading away"
+    url: "https://theconversation.com/signals-from-a-spectacular-neutron-star-merger-that-made-gravitational-waves-are-slowly-fading-away-94294"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/conv_atca.png
     alt: "The Australia Telescope Compact Array"
     url: "https://theconversation.com/after-the-alert-radio-eyes-hunt-the-source-of-the-gravitational-waves-85106"
@@ -13,6 +27,8 @@ feature_row1:
     btn_class: "btn--primary"
     title: ""
     excerpt: "After the alert: Radio ‘eyes’ hunt the source of the gravitational waves"
+
+feature_row2:
   - image_path: /assets/images/conv_mwa.png
     alt: "The Murchison Widefield Array"
     title: ""
@@ -26,6 +42,15 @@ feature_row1:
     excerpt: "How an undergraduate discovered tubes of plasma in the sky."
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: assets/images/conv_atca.png
+    alt: "Australia Telescope Compact Array"
+    url: "https://theconversation.com/why-data-driven-science-is-more-than-just-a-buzzword-76949"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    title: ""
+    excerpt: "Why data-driven science is more than just a buzzword"
+
+
 ---
 
 ## Writing
@@ -33,6 +58,7 @@ feature_row1:
 Some articles I have written for [The Conversation](https://theconversation.com/profiles/tara-murphy-1082/articles).
 
 {% include feature_row id="feature_row1" %}
+{% include feature_row id="feature_row2" %}
 
 ## Videos
 Our team discusses how we detected radio emission from a binary neutron star merger GW170817
