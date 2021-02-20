@@ -53,13 +53,6 @@ feature_row2:
 
 ---
 
-## Writing
-
-Some articles I have written for [The Conversation](https://theconversation.com/profiles/tara-murphy-1082/articles).
-
-{% include feature_row id="feature_row1" %}
-{% include feature_row id="feature_row2" %}
-
 ## Videos
 I attempt to explain the expanding universe in a elevator ride
 
@@ -72,6 +65,15 @@ Our team discusses how we detected radio emission from a binary neutron star mer
 Cleo Loi explains how we discovered plasma tubes in the ionosphere with the Murchison Widefield Array
 
 {% include video id="ymZEOihlIdU" provider="youtube" %}
+
+
+## Writing
+
+Some articles I have written for [The Conversation](https://theconversation.com/profiles/tara-murphy-1082/articles).
+
+{% include feature_row id="feature_row1" %}
+{% include feature_row id="feature_row2" %}
+
 
 
 ## Podcasts

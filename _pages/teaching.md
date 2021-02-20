@@ -8,6 +8,17 @@ sidebar:
 
 Some of my current courses are described below.
 
+## The Apocalypse in Science and Culture
+
+In 2021 we're introducing a new unit!
+
+Apocalypse scenarios abound in popular culture, due to causes as diverse as nuclear war, climate change, and zombies. Thinking about how the apocalypse might occur, and how to survive it, presents deep questions around our understanding of science, economics and social culture. This unit will investigate topical issues in nuclear physics, climate science, agriculture and economics. We will use examples from film and literature to explore how we might survive apocalyptic events. In this highly interdisciplinary unit of study you will work together with other students on a diverse range of case studies, to explore some of the key problems confronting our civilization. By doing this unit you will develop critical thinking and analysis skills, as well as practical skills in video production. 
+
+{% include video id="YcUtKBpYUH4" provider="youtube" %}
+
+[More information](https://www.sydney.edu.au/units/OLES1602) (for University of Sydney students)
+
+
 ## Data-driven Astronomy
 
 Science is undergoing a data explosion, and astronomy is leading the way. 

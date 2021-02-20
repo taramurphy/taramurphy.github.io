@@ -18,10 +18,6 @@ What is it like being a scientist at the University of Sydney
 
 {% include video id="BTjrJ3aAcrk" provider="youtube" %}
 
-Galaxy Convention talk on STEM and Entrepreneurship
-
-{% include video id="qu2hFnX-KnE" provider="youtube" %}
-
 Extreme events: Exploring the Transient Universe
 
 {% include video id="n5GQGupCNHA" provider="youtube" %}
@@ -42,7 +38,6 @@ the [first ICT and coding courses available in Khmer](https://groklearning.com/i
 based on the Australian curriculum. Read more about [preparing young Khmer for life in the digital age](https://blog.groklearning.com/preparing-young-khmer-for-life-in-the-digital-age-6b336d94df4a).
 
 
-## Coding in school
-Programming and computational thinking are critical skills for today's students. Some of the projects I'm involved in to help improve these skills for both students and teachers are:
-* The [Australian Computing Academy](https://aca.edu.au/)
-* The [National Computer Science School Challenge](http://sydney.edu.au/wpo/high-schools/stage5/national-computer-science-school-challenge.shtml/)
+## Coding in schools
+Programming and computational thinking are critical skills for today's students. 
+We're helping improve the programming skills of students and teachers through the [Australian Computing Academy](https://aca.edu.au/)

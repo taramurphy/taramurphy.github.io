@@ -25,22 +25,6 @@ Some of our recent papers are:
 
 {% include video id="x_Akn8fUBeQ" provider="youtube" %}
 
-## Low frequency radio transients
-Magnetised extrasolar planets are expected to emit strongly at low radio 
-frequencies, in the same way that Jupiter does. So far, most exoplanets have 
-been detected through indirect means such as radial velocity and transit 
-searches but radio observations can provide another method of making direct detections.
-
-We are searching for exoplanet emission, and studying other variable sources such as flare stars at low radio frequencies using the Murchison Widefield Array Telescope.
-
-Some of our recent low frequency papers are:
-
-* [Lynch et al.](http://adsabs.harvard.edu/abs/2018arXiv180411006L) The detectability of radio emission from exoplanets
-* [Murphy et al.](http://adsabs.harvard.edu/abs/2017PASA...34...20M) Low-Frequency Spectral Energy Distributions of Radio Pulsars Detected with the Murchison Widefield Array
-* [Murphy et al.](http://adsabs.harvard.edu/abs/2017MNRAS.466.1944M) A search for long-time-scale, low-frequency radio transients
-* [Lynch et al.](http://adsabs.harvard.edu/abs/2017ApJ...836L..30L) 154 MHz Detection of Faint, Polarized Flares from UV Ceti
-
-{% include video id="aSUoDE_NuBQ" provider="youtube" %}
 
 ## ASKAP radio transients
 Transients are astronomical objects that appear and disappear or change 
@@ -61,3 +45,21 @@ A pilot ASKAP survey of radio transient events in the region around the intermit
 * [Murphy et al.](http://adsabs.harvard.edu/abs/2013PASA...30....6M) VAST: An ASKAP Survey for Variables and Slow Transients
 
 {% include video id="FDoDk4D2RAw" provider="youtube" %}
+
+## Low frequency radio transients
+Magnetised extrasolar planets are expected to emit strongly at low radio 
+frequencies, in the same way that Jupiter does. So far, most exoplanets have 
+been detected through indirect means such as radial velocity and transit 
+searches but radio observations can provide another method of making direct detections.
+
+We are searching for exoplanet emission, and studying other variable sources such as flare stars at low radio frequencies using the Murchison Widefield Array Telescope.
+
+Some of our recent low frequency papers are:
+
+* [Lynch et al.](http://adsabs.harvard.edu/abs/2018arXiv180411006L) The detectability of radio emission from exoplanets
+* [Murphy et al.](http://adsabs.harvard.edu/abs/2017PASA...34...20M) Low-Frequency Spectral Energy Distributions of Radio Pulsars Detected with the Murchison Widefield Array
+* [Murphy et al.](http://adsabs.harvard.edu/abs/2017MNRAS.466.1944M) A search for long-time-scale, low-frequency radio transients
+* [Lynch et al.](http://adsabs.harvard.edu/abs/2017ApJ...836L..30L) 154 MHz Detection of Faint, Polarized Flares from UV Ceti
+
+{% include video id="aSUoDE_NuBQ" provider="youtube" %}
+
