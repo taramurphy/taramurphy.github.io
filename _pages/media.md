@@ -63,7 +63,7 @@ Some articles I have written for [The Conversation](https://theconversation.com/
 ## Videos
 I attempt to explain the expanding universe in a elevator ride
 
-{% include video id="v=kv2-MhkK7cc" provider="youtube" width="70%" %}
+{% include video id="kv2-MhkK7cc" provider="youtube" width="70%" %}
 
 Our team discusses how we detected radio emission from a binary neutron star merger GW170817
 
