@@ -61,9 +61,13 @@ Some articles I have written for [The Conversation](https://theconversation.com/
 {% include feature_row id="feature_row2" %}
 
 ## Videos
+I attempt to explain the expanding universe in a elevator ride
+
+{% include video id="v=kv2-MhkK7cc" provider="youtube" width="70%" %}
+
 Our team discusses how we detected radio emission from a binary neutron star merger GW170817
 
-{% include video id="EuFxRAYxs2Q" provider="youtube" width="80%" %}
+{% include video id="EuFxRAYxs2Q" provider="youtube" width="70%" %}
 
 Cleo Loi explains how we discovered plasma tubes in the ionosphere with the Murchison Widefield Array
 
