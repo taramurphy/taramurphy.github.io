@@ -1,0 +1,6 @@
+# Folders to ignore
+/*-cache/
+
+
+# Files to ignore
+.DS_Store
