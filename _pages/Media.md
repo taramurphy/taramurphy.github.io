@@ -52,18 +52,18 @@ feature_row2:
     excerpt: "Why data-driven science is more than just a buzzword<br><br>"
 
 feature_row3:
-  - image_path: assets/images/conv_wang1.png
+  - image_path: assets/images/conv_zic.png
     alt: "Bad space weather may make life impossible near Proxima Centauri"
     title: ""
-    excerpt: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. "
+    excerpt: "Bad space weather may make life impossible near Proxima Centauri"
     url: "https://theconversation.com/bad-space-weather-may-make-life-impossible-near-proxima-centauri-150979"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/conv_wang2.png
+  - image_path: assets/images/conv_wang.png
     alt: "5 twinkling galaxies help us uncover the mystery of the Milky Way’s missing matter"
     title: ""
     url: "https://theconversation.com/5-twinkling-galaxies-help-us-uncover-the-mystery-of-the-milky-ways-missing-matter-153650"
-    excerpt: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. "
+    excerpt: "5 twinkling galaxies help us uncover the mystery of the Milky Way’s missing matter"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

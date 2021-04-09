@@ -35,21 +35,21 @@ feature_row2020:
     btn_label: "Read paper"
     btn_class: "btn--primary"
     title: ""
-    excerpt: "<strong>Zic et al. (2021)</strong> <em> A Flare-type IV Burst Event from Proxima Centauri and Implications for Space Weather"
+    excerpt: "<strong>Zic et al. (2020)</strong> <em> A Flare-type IV Burst Event from Proxima Centauri and Implications for Space Weather"
   - image_path: assets/images/p_Qui.png
     alt: "A population analysis of pulse broadening in ASKAP fast radio bursts"
     url: "https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.1382Q/abstract"
     btn_label: "Read paper"
     btn_class: "btn--primary"
     title: ""
-    excerpt: "<strong>Qui et al. (2021)</strong> <em> A population analysis of pulse broadening in ASKAP fast radio bursts><br><br>"
+    excerpt: "<strong>Qui et al. (2020)</strong> <em> A population analysis of pulse broadening in ASKAP fast radio bursts><br><br>"
   - image_path: assets/images/p_dobie2.png
     alt: "A population analysis of pulse broadening in ASKAP fast radio bursts"
     url: "https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.2449D/abstract"
     btn_label: "Read paper"
     btn_class: "btn--primary"
     title: ""
-    excerpt: "<strong>Dobie et al. (2021)</strong> <em>  Constraining properties of neutron star merger outflows with radio observations><br><br>"
+    excerpt: "<strong>Dobie et al. (2020)</strong> <em>  Constraining properties of neutron star merger outflows with radio observations><br><br>"
 
 feature_rowArchived:
   - image_path: assets/images/p_dobie1.png
