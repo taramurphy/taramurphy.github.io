@@ -10,7 +10,7 @@ feature_row2019:
   - image_path: /assets/images/p_kaplan.png
     title: ""
     url: "https://ui.adsabs.harvard.edu/abs/2019ApJ...884...96K/abstract"
-    excerpt: "<strong>Kaplan et al. (2021)</strong> <em> Serendipitous Discovery of PSR J1431-6328 as a Highly Polarized Point Source with the Australian SKA Pathfinder<br>"
+    excerpt: "<strong>Kaplan et al. (2019)</strong> <em> Serendipitous Discovery of PSR J1431-6328 as a Highly Polarized Point Source with the Australian SKA Pathfinder<br>"
     btn_label: "Read paper"
     btn_class: "btn--primary"
   - image_path: assets/images/p_askap.png
@@ -19,11 +19,11 @@ feature_row2019:
     btn_label: "Read paper"
     btn_class: "btn--primary"
     title: ""
-    excerpt: "<strong>Dobie et al. (2021)</strong> <em> An ASKAP search for a radio counterpart to the first high-significance neutron star-black hole merger LIGO/Virgo S190814bv"
+    excerpt: "<strong>Dobie et al. (2019)</strong> <em> An ASKAP search for a radio counterpart to the first high-significance neutron star-black hole merger LIGO/Virgo S190814bv"
   - image_path: /assets/images/p_uvceti.png
     alt: "Dynamic spectrum of UV Ceti"
     title: ""
-    excerpt: "<strong>Zic et al. (2021)</strong> <em> ASKAP detection of periodic and elliptically polarized radio pulses from UV Ceti<br><br>"
+    excerpt: "<strong>Zic et al. (2019)</strong> <em> ASKAP detection of periodic and elliptically polarized radio pulses from UV Ceti<br><br>"
     url: "https://ui.adsabs.harvard.edu/abs/2019MNRAS.488..559Z/abstract"
     btn_label: "Read paper"
     btn_class: "btn--primary"
@@ -42,7 +42,7 @@ feature_row2020:
     btn_label: "Read paper"
     btn_class: "btn--primary"
     title: ""
-    excerpt: "<strong>Qui et al. (2020)</strong> <em> A population analysis of pulse broadening in ASKAP fast radio bursts><br><br>"
+    excerpt: "<strong>Qiu et al. (2020)</strong> <em> A population analysis of pulse broadening in ASKAP fast radio bursts><br><br>"
   - image_path: assets/images/p_dobie2.png
     alt: "A population analysis of pulse broadening in ASKAP fast radio bursts"
     url: "https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.2449D/abstract"
