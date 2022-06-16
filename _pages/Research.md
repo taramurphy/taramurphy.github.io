@@ -40,6 +40,9 @@ The Variables and Slow Transients project on the Australian SKA Pathfinder (ASKA
 
 Some of our recent papers on gigahertz radio variability are:
 
+* [Wang et al.](https://ui.adsabs.harvard.edu/abs/2022ApJ...930...38W/abstract) Discovery of PSR J0523-7125 as a Circularly Polarized Variable Radio Source in the Large Magellanic Cloud
+* [Murphy et al.](https://ui.adsabs.harvard.edu/abs/2021ApJ...920...45W/abstract) The ASKAP Variables and Slow Transients (VAST) Pilot Survey
+* [Wang et al.](https://ui.adsabs.harvard.edu/abs/2021ApJ...920...45W/abstract) Discovery of ASKAP J173608.2-321635 as a Highly Polarized Transient Point Source with the Australian SKA Pathfinder
 * [Leung et al.](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.1847L/abstract) A search for radio afterglows from gamma-ray bursts with the Australian Square Kilometre Array Pathfinder
 * [Pritchard et al.](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.5438P/abstract) A circular polarization survey for radio stars with the Australian SKA Pathfinder
 * [Wang et al.](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3294W/abstract) ASKAP observations of multiple rapid scintillators reveal a degrees-long plasma filament
