@@ -46,7 +46,8 @@ Some of our recent papers on gigahertz radio variability are:
 * [Zic et al.](https://ui.adsabs.harvard.edu/abs/2020ApJ...905...23Z/abstract) A Flare-type IV Burst Event from Proxima Centauri and Implications for Space Weather
 * [Murphy et al.](http://adsabs.harvard.edu/abs/2013PASA...30....6M) VAST: An ASKAP Survey for Variables and Slow Transients
 
-{% include video id="FDoDk4D2RAw" provider="youtube" %}
+<iframe src="https://player.vimeo.com/video/50121809?h=5ad9bcc6a2" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/50121809">ASKAP Radio Telescope</a> from <a href="https://vimeo.com/terrastro">Alex Cherney</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Low frequency radio transients
 Magnetised extrasolar planets are expected to emit strongly at low radio
