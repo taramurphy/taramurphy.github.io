@@ -17,6 +17,8 @@ mystery of what causes some of the most energetic events in the Universe,
 their environment and how they evolve.
 
 Some of our recent papers are:
+* [Dobie et al.](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.3794D/abstract) A comprehensive search for the radio counterpart of GW190814 with the Australian Square Kilometre Array Pathfinder
+* [Dobie et al.](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.2647D/abstract) Radio afterglows from compact binary coalescences: prospects for next-generation telescopes
 * [Dobie et al.](https://ui.adsabs.harvard.edu/abs/2019ApJ...887L..13D/abstract) An ASKAP Search for a Radio Counterpart to the First High-significance Neutron Star-Black Hole Merger LIGO/Virgo S190814bv
 * [Dobie et al.](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.2449D/abstract) Constraining properties of neutron star merger outflows with radio observations
 * [Dobie et al.](http://adsabs.harvard.edu/abs/2018arXiv180306853D) A turnover in the radio light curve of GW170817
