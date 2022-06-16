@@ -44,6 +44,10 @@ I'm honoured to have worked with many talented students over the years. We alway
          <li>Current: 	     Ziteng (Andy) Wang, PhD</li>
          <li>Current: 	     Mark Edwards, PhD</li>
          <li>Current: 	     Daniele D'Antonio, PhD (UTS; associate supervisor)</li>
+         <li>Current:        Archibald Fox, Honours (data science)</li>
+         <li>Current:        Kovi Rose, Honours</li>
+         <li>Current:        Stephanie Bryson, Honours</li>
+         <li>Current:        Ashna Gulati, Honours</li>
          <li>2021 	     Hao (Harry) Qiu, PhD</li>
          <li>2021 	     Andrew Zic, PhD</li>
          <li>2021 	     Dougal Dobie, PhD</li>
