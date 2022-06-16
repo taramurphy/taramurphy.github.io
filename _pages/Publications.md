@@ -75,7 +75,7 @@ feature_rowArchived:
 
 feature_row2021:
   - image_path: /assets/images/p_leung.png
-    alt: "<strong>Wang et al. (2021)</strong> <em>A search for radio afterglows from gamma-ray bursts with the Australian Square Kilometre Array Pathfinder"
+    alt: "GRB171205A"
     title: ""
     excerpt: "<strong>Leung et al. (2021)</strong> <em>A search for radio afterglows from gamma-ray bursts with the Australian Square Kilometre Array Pathfinder"
     url: "https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.1847L/abstract"
@@ -94,6 +94,39 @@ feature_row2021:
     excerpt: "<strong>Wang et al. (2021)</strong> <em>ASKAP observations of multiple rapid scintillators reveal a degrees-long plasma filament<br>"
     btn_label: "Read paper"
     btn_class: "btn--primary"
+  - image_path: /assets/images/p_murphy3.png
+    title: ""
+    url: "https://ui.adsabs.harvard.edu/abs/2021PASA...38...54M/abstract"
+    excerpt: "<strong>Murphy et al. (2021)</strong> <em>The ASKAP Variables and Slow Transients (VAST) Pilot Survey<br>"
+    btn_label: "Read paper"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/p_dobie3.png
+    title: ""
+    url: "https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.2647D/abstract"
+    excerpt: "<strong>Dobie et al. (2021)</strong> <em>Radio afterglows from compact binary coalescences: prospects for next-generation telescopes<br>"
+    btn_label: "Read paper"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/p_wang2.png
+    title: ""
+    url: "https://ui.adsabs.harvard.edu/abs/2021ApJ...920...45W/abstract"
+    excerpt: "<strong>Wang et al. (2021)</strong> <em>Discovery of ASKAP J173608.2-321635 as a Highly Polarized Transient Point Source with the Australian SKA Pathfinder<br>"
+    btn_label: "Read paper"
+    btn_class: "btn--primary"
+
+feature_row2022:
+  - image_path: /assets/images/p_dobie4.png
+    alt: "GW190814 final search"
+    title: ""
+    excerpt: "<strong>Dobie et al. (2022)</strong> <em>A comprehensive search for the radio counterpart of GW190814 with the Australian Square Kilometre Array Pathfinder"
+    url: "https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.3794D/abstract"
+    btn_label: "Read paper"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/p_wang3.png
+    title: ""
+    url: "https://ui.adsabs.harvard.edu/abs/2022ApJ...930...38W/abstract"
+    excerpt: "<strong>Wang et al. (2022)</strong> <em>Discovery of PSR J0523-7125 as a Circularly Polarized Variable Radio Source in the Large Magellanic Cloud<br>"
+    btn_label: "Read paper"
+    btn_class: "btn--primary"
 ---
 
 My full list of [astronomy publications](https://ui.adsabs.harvard.edu/public-libraries/kQOPg1LoTIKw0otsHZzo3Q) is on NASA ADS.
@@ -102,6 +135,8 @@ Alternatively you can [view them on Scopus](https://www.scopus.com/authid/detail
 
 ## Recent Highlights
 Some recent publications from my group
+<h3>2022</h3>
+{% include feature_row id="feature_row2022" %}
 <h3>2021</h3>
 {% include feature_row id="feature_row2021" %}
 <h3>2020</h3>
