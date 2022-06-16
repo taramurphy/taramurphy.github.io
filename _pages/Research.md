@@ -38,7 +38,7 @@ supernovae and gamma-ray bursts; when stars collide with black holes; or
 when hot, magnetised planets interact with their host stars. There are also
 mysterious transients of unknown origin, like fast radio bursts.
 
-The Variables and Slow Transients project on the Australian SKA Pathfinder (ASKAP) telescope will investigate all of these phenomena through a suite of widefield surveys.
+The Variables and Slow Transients ([VAST](https://www.vast-survey.org/)) project on the Australian SKA Pathfinder (ASKAP) telescope will investigate all of these phenomena through a suite of widefield surveys.
 
 Some of our recent papers on gigahertz radio variability are:
 
