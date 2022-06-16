@@ -52,18 +52,32 @@ feature_row2:
     excerpt: "Why data-driven science is more than just a buzzword<br><br>"
 
 feature_row3:
-  - image_path: assets/images/conv_zic.png
-    alt: "Bad space weather may make life impossible near Proxima Centauri"
+  - image_path: assets/images/conv_wang2.jpg
+    alt: "We’ve used a new technique to discover the brightest radio pulsar outside our own galaxy"
     title: ""
-    excerpt: "Bad space weather may make life impossible near Proxima Centauri"
-    url: "https://theconversation.com/bad-space-weather-may-make-life-impossible-near-proxima-centauri-150979"
+    url: "https://theconversation.com/weve-used-a-new-technique-to-discover-the-brightest-radio-pulsar-outside-our-own-galaxy-180508"
+    excerpt: "We’ve used a new technique to discover the brightest radio pulsar outside our own galaxy"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/conv_wang.png
+  - image_path: assets/images/conv_wang3.png
+    alt: "We found a mysterious flashing radio signal from near the centre of the galaxy"
+    title: ""
+    url: "https://theconversation.com/we-found-a-mysterious-flashing-radio-signal-from-near-the-centre-of-the-galaxy-167802"
+    excerpt: "We found a mysterious flashing radio signal from near the centre of the galaxy"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/conv_wang.jpg
     alt: "5 twinkling galaxies help us uncover the mystery of the Milky Way’s missing matter"
     title: ""
     url: "https://theconversation.com/5-twinkling-galaxies-help-us-uncover-the-mystery-of-the-milky-ways-missing-matter-153650"
     excerpt: "5 twinkling galaxies help us uncover the mystery of the Milky Way’s missing matter"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/conv_zic.jpg
+    alt: "Bad space weather may make life impossible near Proxima Centauri"
+    title: ""
+    excerpt: "Bad space weather may make life impossible near Proxima Centauri"
+    url: "https://theconversation.com/bad-space-weather-may-make-life-impossible-near-proxima-centauri-150979"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -86,7 +100,7 @@ Cleo Loi explains how we discovered plasma tubes in the ionosphere with the Murc
 
 Some articles I have written for [The Conversation](https://theconversation.com/profiles/tara-murphy-1082/articles).
 
-{% include feature_row type="left" id="feature_row3" %}
+{% include feature_row id="feature_row3" %}
 {% include feature_row id="feature_row1" %}
 {% include feature_row id="feature_row2" %}
 
