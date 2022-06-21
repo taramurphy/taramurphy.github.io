@@ -7,55 +7,15 @@ sidebar:
     text: "Room 358, School of Physics, University of Sydney, NSW, 2006"
 
 feature_row1:
-  - image_path: assets/images/conv_bns.png
-    alt: "Simulation of BNS merger"
-    url: "https://theconversation.com/weve-detected-new-gravitational-waves-we-just-dont-know-where-they-come-from-yet-116267"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    title: ""
-    excerpt: "We’ve detected new gravitational waves, we just don’t know where they come from (yet)<br><br>"
-  - image_path: assets/images/conv_nsm.png
-    alt: "Neutron star merger"
-    title: ""
-    excerpt: "Signals from a spectacular neutron star merger that made gravitational waves are slowly fading away"
-    url: "https://theconversation.com/signals-from-a-spectacular-neutron-star-merger-that-made-gravitational-waves-are-slowly-fading-away-94294"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/conv_atca.png
-    alt: "The Australia Telescope Compact Array"
-    url: "https://theconversation.com/after-the-alert-radio-eyes-hunt-the-source-of-the-gravitational-waves-85106"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    title: ""
-    excerpt: "After the alert: Radio ‘eyes’ hunt the source of the gravitational waves<br><br>"
 
 feature_row2:
-  - image_path: assets/images/conv_mwa.png
-    alt: "The Murchison Widefield Array"
-    title: ""
-    excerpt: "Tuning in to cosmic radio from the dawn of time.<br><br>"
-    url: "https://theconversation.com/tuning-in-to-cosmic-radio-from-the-dawn-of-time-51584"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/conv_plasma.png
-    title: ""
-    url: "https://theconversation.com/how-an-undergraduate-discovered-tubes-of-plasma-in-the-sky-42810"
-    excerpt: "How an undergraduate discovered tubes of plasma in the sky."
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/conv_green.png
-    alt: "Australia Telescope Compact Array"
-    url: "https://theconversation.com/why-data-driven-science-is-more-than-just-a-buzzword-76949"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    title: ""
-    excerpt: "Why data-driven science is more than just a buzzword<br><br>"
 
-feature_row3:
+
+feature_conversation:
   - image_path: assets/images/conv_wang2.jpg
     alt: "We’ve used a new technique to discover the brightest radio pulsar outside our own galaxy"
     title: ""
-    url: "https://theconversation.com/weve-used-a-new-technique-to-discover-the-brightest-radio-pulsar-outside-our-own-galaxy-180508"
+    url: "https://theconversation.com/weve-used-a-new-technique-to-discover-te-brightest-radio-pulsar-outside-our-own-galaxy-180508"
     excerpt: "We’ve used a new technique to discover the brightest radio pulsar outside our own galaxy"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -80,6 +40,47 @@ feature_row3:
     url: "https://theconversation.com/bad-space-weather-may-make-life-impossible-near-proxima-centauri-150979"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: assets/images/conv_bns.jpg
+    alt: "Simulation of BNS merger"
+    url: "https://theconversation.com/weve-detected-new-gravitational-waves-we-just-dont-know-where-they-come-from-yet-116267"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    title: ""
+    excerpt: "We’ve detected new gravitational waves, we just don’t know where they come from (yet)<br><br>"
+  - image_path: assets/images/conv_nsm.png
+    alt: "Neutron star merger"
+    title: ""
+    excerpt: "Signals from a spectacular neutron star merger that made gravitational waves are slowly fading away"
+    url: "https://theconversation.com/signals-from-a-spectacular-neutron-star-merger-that-made-gravitational-waves-are-slowly-fading-away-94294"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/conv_atca.png
+    alt: "The Australia Telescope Compact Array"
+    url: "https://theconversation.com/after-the-alert-radio-eyes-hunt-the-source-of-the-gravitational-waves-85106"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    title: ""
+    excerpt: "After the alert: Radio ‘eyes’ hunt the source of the gravitational waves<br><br>"
+  - image_path: assets/images/conv_mwa.jpg
+    alt: "The Murchison Widefield Array"
+    title: ""
+    excerpt: "Tuning in to cosmic radio from the dawn of time.<br><br>"
+    url: "https://theconversation.com/tuning-in-to-cosmic-radio-from-the-dawn-of-time-51584"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/conv_plasma.jpg
+    title: ""
+    url: "https://theconversation.com/how-an-undergraduate-discovered-tubes-of-plasma-in-the-sky-42810"
+    excerpt: "How an undergraduate discovered tubes of plasma in the sky."
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/conv_green.png
+    alt: "Australia Telescope Compact Array"
+    url: "https://theconversation.com/why-data-driven-science-is-more-than-just-a-buzzword-76949"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    title: ""
+    excerpt: "Why data-driven science is more than just a buzzword<br><br>"
 ---
 
 ## Videos
@@ -100,9 +101,9 @@ Cleo Loi explains how we discovered plasma tubes in the ionosphere with the Murc
 
 Some articles I have written for [The Conversation](https://theconversation.com/profiles/tara-murphy-1082/articles).
 
-{% include feature_row id="feature_row3" %}
-{% include feature_row id="feature_row1" %}
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_conversation" %}
+<!-- {% include feature_row id="feature_row1" %}
+{% include feature_row id="feature_row2" %} -->
 
 
 
