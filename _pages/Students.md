@@ -37,17 +37,18 @@ I'm honoured to have worked with many talented students over the years. We alway
     <div class="row">
         <div class="column left">
         <ul>
-          <li>Current:        Ashna Gulati, PhD</li>
-          <li>Current:        Gary Strain, PhD</li>
-         <li>Current:         Liroy Lourenco, PhD</li>
+         <li>Current:        Kovi Rose, PhD</li>
+         <li>Current:        Ashna Gulati, PhD</li>
+         <li>Current:        Gary Strain, PhD</li>
+         <li>Current:        Liroy Lourenco, PhD</li>
          <li>Current: 	     Joshua Pritchard, PhD</li>
          <li>Current: 	     Yuanming Wang, PhD</li>
          <li>Current: 	     James Leung, PhD</li>
-         <li>Current: 	     Ziteng (Andy) Wang, PhD</li>
          <li>Current: 	     Daniele D'Antonio, PhD (UTS; associate supervisor)</li>
-         <li>Current:        Archibald Fox, Honours (data science)</li>
-         <li>Current:        Kovi Rose, Honours</li>
-         <li>Current:        Stephanie Bryson, Honours</li>
+         <li>2023 	     Ziteng (Andy) Wang, PhD</li>
+         <li>2022        Archibald Fox, Honours (data science)</li>
+         <li>2022        Kovi Rose, Honours</li>
+         <li>2022        Stephanie Bryson, Honours</li>
          <li>2022 	     Mark Edwards, MPhil</li>
          <li>2022        Ashna Gulati, Honours</li>
          <li>2021 	     Hao (Harry) Qiu, PhD</li>
