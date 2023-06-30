@@ -4,7 +4,7 @@ title: "Students"
 classes: wide
 sidebar:
   - title: "Contact"
-    text: "Room 358, School of Physics, University of Sydney, NSW, 2006"
+    text: "Room 214, School of Physics, University of Sydney, NSW, 2006"
 ---
 
 I'm honoured to have worked with many talented students over the years. We always have undergraduate research projects available in our group, so contact me if you're interested.
@@ -38,14 +38,14 @@ I'm honoured to have worked with many talented students over the years. We alway
         <div class="column left">
            <h3>HDR students</h3>
               <ul>
+                 <li>Current:        Yu Wing (Joshua) Lee, PhD</li> 
                  <li>Current:        Kovi Rose, PhD</li>
                  <li>Current:        Ashna Gulati, PhD</li>
-                 <li>Current:        Gary Strain, PhD</li>
                  <li>Current:        Liroy Lourenco, PhD</li>
                  <li>Current: 	     Joshua Pritchard, PhD</li>
                  <li>Current: 	     Yuanming Wang, PhD</li>
                  <li>Current: 	     James Leung, PhD</li>
-                 <li>Current: 	     Daniele D'Antonio, PhD (UTS; associate supervisor)</li>
+                 <li>2023 	     Daniele D'Antonio, PhD (UTS; associate supervisor)</li>
                  <li>2023 	     Ziteng (Andy) Wang, PhD</li>
                  <li>2022 	     Mark Edwards, MPhil</li>
                  <li>2021 	     Hao (Harry) Qiu, PhD</li>
