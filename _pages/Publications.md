@@ -4,7 +4,7 @@ title: "Publications"
 classes: wide
 sidebar:
   - title: "Contact"
-    text: "Room 217, School of Physics, University of Sydney, NSW, 2006"
+    text: "Room 214, School of Physics, University of Sydney, NSW, 2006"
 
 feature_row2019:
   - image_path: /assets/images/p_kaplan.png
