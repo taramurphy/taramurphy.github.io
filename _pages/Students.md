@@ -38,13 +38,15 @@ I'm honoured to have worked with many talented students over the years. We alway
         <div class="column left">
            <h3>HDR students</h3>
               <ul>
+                <li>Current:        Surabhi Chandra, PhD</li> 
+                <li>Current:        Qichen Huang, PhD</li>  
                 <li>Current:        Mali Land-Strykowski, PhD (associate supervisor)</li>   
                 <li>Current:        Oliver Oayda, PhD (associate supervisor)</li>  
                 <li>Current:        Kavya Shaji, PhD</li>  
                  <li>Current:        Yu Wing (Joshua) Lee, PhD</li> 
                  <li>Current:        Kovi Rose, PhD</li>
                  <li>Current:        Ashna Gulati, PhD</li>
-                 <li>Current:        Liroy Lourenco, PhD</li>
+                 <li>2024        Liroy Lourenco, PhD</li>
                  <li>2024 	     Joshua Pritchard, PhD</li>
                  <li>2023 	     James Leung, PhD</li>
                  <li>2023 	     Yuanming Wang, PhD</li>
@@ -64,6 +66,8 @@ I'm honoured to have worked with many talented students over the years. We alway
         <div class="column left" >
               <h3>Honours students</h3>
               <ul>
+                  <li>2025        Jackson Mitchell-Bolton </li>
+                  <li>2024        Maya van der Vegt</li>
                   <li>2022        Archibald Fox (data science)</li>
                   <li>2022        Kovi Rose </li>
                   <li>2022        Stephanie Bryson </li>
